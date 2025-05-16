@@ -16,5 +16,6 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 "# audio-player-modren-ui" 
 
-<!-- Uploading "audio-player1.png"... -->
-<!-- Uploading "audio-player.png"... -->
+![Image](https://github.com/user-attachments/assets/85c0b1a9-3301-47e7-bf12-3019f5e4b832)
+
+![Image](https://github.com/user-attachments/assets/4700fe7e-98c7-41fd-a243-404625a9944f)
